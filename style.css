@@ -1,0 +1,39 @@
+body {
+    background-image: url('image_2023-02-13_23-42-30.png');
+    background-size: cover;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+
+  header {
+    background-color: lightblue;
+    opacity: 0.9;
+    padding: 2rem;
+    text-align: center;
+  }
+
+  h1,
+  h2,
+  h3 {
+    color: blue;
+    margin-bottom: 0.5rem;
+  }
+
+  section {
+    background-color: #fff;
+    opacity: 0.9;
+    padding: 2rem;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 2rem;
+  }
+
+  li {
+    margin-bottom: 1rem;
+  }
+
+  footer {
+    background-color: lightblue;
+    opacity: 0.9;
+    padding: 2rem;
+    text-align: center;
+  }
